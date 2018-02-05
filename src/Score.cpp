@@ -85,7 +85,7 @@ void Score::onTick() {
 void Score::StdOnSignal() {
   EM_COUT((int)em_signal, 1);
   Config *cfg = Config::getInstance();
-  char pStrMsg[35];
+  char pStrMsg[350];
 
   OnSignal( PBL_SIG_RESET_ALL ) {
     this->clear();
