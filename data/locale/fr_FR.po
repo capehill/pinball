@@ -125,7 +125,7 @@ msgstr "Mode:     Plein Ecran"
 
 #: ../../src/Pinball.cpp:621
 msgid "screen:      windowed"
-msgstr "Mode:         FenÃªtre"
+msgstr "Mode:         Fenêtre"
 
 #: ../../src/Pinball.cpp:625
 msgid "brightness:    =....."
